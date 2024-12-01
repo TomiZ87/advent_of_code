@@ -60,13 +60,12 @@ aoc/
 
 ## 🌟 My Advent of Code Profile
 
-### Personal Information (TODO)
+### Personal Information (
 
-- **Programming Language**: [Python/JavaScript/Rust/etc.]
-- **Year**: [Current Year]
+- **Programming Language**: Python
+- **Year**: 2024
 - **Total Stars Collected**: [Total Stars]
 - **Favorite Challenge**: [Day X]
-> To be fille in by the participant...
 
 ## 🔗 Useful Resources
 
@@ -80,7 +79,7 @@ Use the checklist below to track your daily challenges:
 <details>
 <summary>My progress so far...</summary>
 
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
