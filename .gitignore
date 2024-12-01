@@ -1,0 +1,31 @@
+# Compiled class files
+*.class
+*.log
+*.ctxt
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JavaScript files
+node_modules/
+*.js.map
+
+# Compiled Rust files
+/target/
+**/*.rs.bk
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# Personal input files (often provided by Advent of Code)
+**/input.txt
