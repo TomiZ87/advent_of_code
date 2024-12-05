@@ -1,5 +1,5 @@
 def load():
-    with open("./src/day01/input.txt", mode="r", encoding="UTF-8") as file:
+    with open("./src/2024/day01/input.txt", mode="r", encoding="UTF-8") as file:
          rows = file.readlines()
          
          return rows

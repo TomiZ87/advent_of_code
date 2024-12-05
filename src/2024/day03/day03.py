@@ -1,6 +1,6 @@
 import re
 def load():
-    with open("./src/day03/input.txt", mode="r", encoding="UTF-8") as file:
+    with open("./src/2024/day03/input.txt", mode="r", encoding="UTF-8") as file:
          rows = file.read()
          return rows
     
