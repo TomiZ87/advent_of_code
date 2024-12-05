@@ -23,7 +23,7 @@ This repository is part of a structured learning experience to:
 ### Personal Information
 
 - **Programming Language(s)**: Python
-- **Year(s)**: 2024
+- **Year(s)**: 2023-4
 - **Favorite Challenge(s)**: [Day X]
 
 ## 🔗 Useful Resources
@@ -38,7 +38,7 @@ This repository is part of a structured learning experience to:
 <summary>My progress so far...</summary>
 
 - 2024 -- 5/25
-- 2023 -- 0/25
+- 2023 -- 1/25
 - 2022 -- 0/25
 
 </details>

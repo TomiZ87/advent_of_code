@@ -1,4 +1,3 @@
-import re
 def load():
     with open("./src/2024/day04/input.txt", mode="r", encoding="UTF-8") as file:
          txt = file.readlines()
