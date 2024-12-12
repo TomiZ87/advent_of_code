@@ -36,7 +36,7 @@ This repository is part of a structured learning experience to:
 <details>
 <summary>My progress so far...</summary>
 
-- 2024 -- 7/25
+- 2024 -- 11/25
 - 2023 -- 1/25
 - 2022 -- 0/25
 
